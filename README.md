@@ -1,2 +1,2 @@
 # Snake-game
-a game based on java swingand awt
+a game based on java swing and awt
